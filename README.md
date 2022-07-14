@@ -16,6 +16,7 @@ Vanilla with some extra fun
 - Immersive portals. Modifies nether portals so you can look trough them and instantly teleport (https://www.curseforge.com/minecraft/mc-mods/immersive-portals-mod)
 - Lithium. Optimization mod (https://www.curseforge.com/minecraft/mc-mods/lithium)
 - Mod menu. Menu for managing mods in-game (https://www.curseforge.com/minecraft/mc-mods/modmenu/)
+- Mouse Tweaks. Easier to move items around (https://www.curseforge.com/minecraft/mc-mods/mouse-tweaks)
 - Pekhui. Scale mod for using with Immersive Portals (https://www.curseforge.com/minecraft/mc-mods/pehkui)
 - Rougly Enough Items. JEI alternative (https://www.curseforge.com/minecraft/mc-mods/roughly-enough-items)
 - Voice chat. Proximity voice chat ingame (https://www.curseforge.com/minecraft/mc-mods/simple-voice-chat)
