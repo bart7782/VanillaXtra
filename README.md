@@ -2,7 +2,7 @@
 Vanilla with some extra fun
 
 
-# Mod list
+# Mod list (Might be outdated, check the files for a more up to date mod list)
 
 - Adorn. Decoration mod (https://www.curseforge.com/minecraft/mc-mods/adorn)
 - Architectury API. API (https://www.curseforge.com/minecraft/mc-mods/architectury-api)
