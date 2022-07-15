@@ -2,7 +2,7 @@
 Vanilla with some extra fun
 
 
-# Mod list
+# Mod list (Might be outdated, check the files for a more up to date mod list)
 
 - Adorn. Decoration mod (https://www.curseforge.com/minecraft/mc-mods/adorn)
 - Architectury API. API (https://www.curseforge.com/minecraft/mc-mods/architectury-api)
@@ -22,3 +22,6 @@ Vanilla with some extra fun
 - Voice chat. Proximity voice chat ingame (https://www.curseforge.com/minecraft/mc-mods/simple-voice-chat)
 - Xaero's minimap. Map mod (https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap)
 - You're in grave danger. Graves mod (https://www.curseforge.com/minecraft/mc-mods/youre-in-grave-danger)
+
+:D
+:D
