@@ -22,3 +22,5 @@ Vanilla with some extra fun
 - Voice chat. Proximity voice chat ingame (https://www.curseforge.com/minecraft/mc-mods/simple-voice-chat)
 - Xaero's minimap. Map mod (https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap)
 - You're in grave danger. Graves mod (https://www.curseforge.com/minecraft/mc-mods/youre-in-grave-danger)
+
+:D
